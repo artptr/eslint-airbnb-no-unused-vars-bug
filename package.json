@@ -1,0 +1,11 @@
+{
+  "name": "eslint-airbnb-no-unused-vars-bug",
+  "private": true,
+  "author": "Artem Petrenkov <static.lab@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "2.2.0",
+    "eslint-config-airbnb": "6.0.2",
+    "eslint-plugin-react": "4.1.0"
+  }
+}

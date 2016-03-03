@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "airbnb/legacy",
+    ".eslint-project-rules.json"
+  ],
+
+  "rules": {
+    "no-unused-vars": [2, { "vars": "local", "args": "after-used" }]
+  }
+}
